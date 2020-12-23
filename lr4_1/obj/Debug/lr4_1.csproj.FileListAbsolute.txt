@@ -1,0 +1,9 @@
+D:\0\pri-118\тп 3к5с\lr4_1\bin\Debug\lr4_1.exe.config
+D:\0\pri-118\тп 3к5с\lr4_1\bin\Debug\lr4_1.exe
+D:\0\pri-118\тп 3к5с\lr4_1\bin\Debug\lr4_1.pdb
+D:\0\pri-118\тп 3к5с\lr4_1\obj\Debug\lr4_1.csprojAssemblyReference.cache
+D:\0\pri-118\тп 3к5с\lr4_1\obj\Debug\lr4_1.exe
+D:\0\pri-118\тп 3к5с\lr4_1\obj\Debug\lr4_1.pdb
+D:\0\pri-118\тп 3к5с\lr4_1\bin\Debug\log4net.dll
+D:\0\pri-118\тп 3к5с\lr4_1\bin\Debug\log4net.xml
+D:\0\pri-118\тп 3к5с\lr4_1\obj\Debug\lr4_1.csproj.CopyComplete

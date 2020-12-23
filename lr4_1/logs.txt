@@ -1,0 +1,26 @@
+01:09:53,849 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - This is my error messageassage
+01:29:00,979 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - This is my error messageassage
+01:29:55,293 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - This is my error messageassage
+01:41:49,929 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - This is my error messageassage
+01:43:19,314 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - This is my error messageassage
+02:19:19,471 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] INFO - info, but about?assage
+02:23:35,514 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - this is error, u know?assage
+02:23:35,595 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] INFO - info, but about?assage
+02:23:35,608 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] DEBUG - u run ur test, but u r happy?assage
+02:23:35,626 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] WARN - !!!WARNING!!! u lost ur lifeassage
+02:23:35,643 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] FATAL - u r late. ur happy leave usassage
+03:01:30,519 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - this is error, u know?assage
+03:01:30,631 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] INFO - info, but about?assage
+03:01:30,656 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] DEBUG - u run ur test, but u r happy?assage
+03:01:30,691 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] WARN - !!!WARNING!!! u lost ur lifeassage
+03:01:30,707 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] FATAL - u r late. ur happy leave usassage
+10:40:10,174 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - this is error, u know?assage
+10:40:10,295 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] INFO - info, but about?assage
+10:40:10,314 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] DEBUG - u run ur test, but u r happy?assage
+10:40:10,353 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] WARN - !!!WARNING!!! u lost ur lifeassage
+10:40:10,386 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] FATAL - u r late. ur happy leave usassage
+10:43:22,044 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] ERROR - this is error, u know?
+10:43:22,144 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] INFO - info, but about?
+10:43:22,160 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] DEBUG - u run ur test, but u r happy?
+10:43:22,178 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] WARN - !!!WARNING!!! u lost ur life
+10:43:22,218 [D:\0\pri-118\òï 3ê5ñ\lr4_1\Program.cs] FATAL - u r late. ur happy leave us
